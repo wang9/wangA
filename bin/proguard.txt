@@ -1,0 +1,194 @@
+# view AndroidManifest.xml #generated:31
+-keep class android.test.InstrumentationTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class cn.sharesdk.framework.ShareSDKUIShell { <init>(...); }
+
+# view AndroidManifest.xml #generated:129
+-keep class com.itheima62.mobileguard.activities.AToolActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:141
+-keep class com.itheima62.mobileguard.activities.AntivirusActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:125
+-keep class com.itheima62.mobileguard.activities.AppManagerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:133
+-keep class com.itheima62.mobileguard.activities.CacheActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:135
+-keep class com.itheima62.mobileguard.activities.CalllogsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:123
+-keep class com.itheima62.mobileguard.activities.ConnectivityActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:147
+-keep class com.itheima62.mobileguard.activities.FriendsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:161
+-keep class com.itheima62.mobileguard.activities.HomeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:137
+-keep class com.itheima62.mobileguard.activities.LockedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:159
+-keep class com.itheima62.mobileguard.activities.LostFindActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:127
+-keep class com.itheima62.mobileguard.activities.PhoneLocationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:145
+-keep class com.itheima62.mobileguard.activities.SettingCenterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:157
+-keep class com.itheima62.mobileguard.activities.Setup1Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:151
+-keep class com.itheima62.mobileguard.activities.Setup2Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:153
+-keep class com.itheima62.mobileguard.activities.Setup3Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:155
+-keep class com.itheima62.mobileguard.activities.Setup4Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:131
+-keep class com.itheima62.mobileguard.activities.SmslogsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:113
+-keep class com.itheima62.mobileguard.activities.SplashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:149
+-keep class com.itheima62.mobileguard.activities.TaskManagerSettingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:143
+-keep class com.itheima62.mobileguard.activities.TastManagerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:173
+-keep class com.itheima62.mobileguard.activities.TelSmsSafeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:139
+-keep class com.itheima62.mobileguard.activities.TelSmsSafeActivityPage { <init>(...); }
+
+# view AndroidManifest.xml #generated:169
+-keep class com.itheima62.mobileguard.activities.WatchDogEnterPassActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:191
+-keep class com.itheima62.mobileguard.receiver.BootReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:206
+-keep class com.itheima62.mobileguard.receiver.ClearTaskReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:212
+-keep class com.itheima62.mobileguard.receiver.DeviceAdminSample { <init>(...); }
+
+# view AndroidManifest.xml #generated:197
+-keep class com.itheima62.mobileguard.receiver.ExampleAppWidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:186
+-keep class com.itheima62.mobileguard.service.AppWidgetService { <init>(...); }
+
+# view AndroidManifest.xml #generated:188
+-keep class com.itheima62.mobileguard.service.ClearTaskService { <init>(...); }
+
+# view AndroidManifest.xml #generated:182
+-keep class com.itheima62.mobileguard.service.ComingPhoneService { <init>(...); }
+
+# view AndroidManifest.xml #generated:180
+-keep class com.itheima62.mobileguard.service.LocationService { <init>(...); }
+
+# view AndroidManifest.xml #generated:184
+-keep class com.itheima62.mobileguard.service.LostFindService { <init>(...); }
+
+# view AndroidManifest.xml #generated:178
+-keep class com.itheima62.mobileguard.service.TelSmsBlackService { <init>(...); }
+
+# view AndroidManifest.xml #generated:176
+-keep class com.itheima62.mobileguard.service.WatchDogService { <init>(...); }
+
+# view res/layout/activity_home.xml #generated:11
+-keep class com.itheima62.mobileguard.view.MyTextView { <init>(...); }
+
+# view res/layout/activity_settingcenter.xml #generated:12
+# view res/layout/activity_settingcenter.xml #generated:21
+# view res/layout/activity_settingcenter.xml #generated:28
+# view res/layout/activity_settingcenter.xml #generated:36
+-keep class com.itheima62.mobileguard.view.SettingCenterItemView { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class com.itheima62.mobileguard.wxapi.WXEntryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:77
+-keep class com.itheima62.mobileguard.yxapi.YXEntryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class com.mob.tools.MobUIShell { <init>(...); }
+
+# view AndroidManifest.xml #generated:63
+-keep class com.startapp.android.publish.AppWallActivity { <init>(...); }
+
+# view res/layout/activity_home.xml #generated:18
+-keep class com.startapp.android.publish.banner.Banner { <init>(...); }
+
+# view AndroidManifest.xml #generated:60
+-keep class com.startapp.android.publish.list3d.List3DActivity { <init>(...); }
+
+# onClick res/layout/activity_telsmssafe.xml #generated:15
+-keepclassmembers class * { *** addBlackNumber(...); }
+
+# onClick res/layout/activity_cache.xml #generated:15
+-keepclassmembers class * { *** clearAll(...); }
+
+# onClick res/layout/activity_taskmanager.xml #generated:65
+-keepclassmembers class * { *** clearTask(...); }
+
+# onClick res/layout/activity_telsmssafe.xml #generated:78
+-keepclassmembers class * { *** endPage(...); }
+
+# onClick res/layout/activity_lostfind.xml #generated:35
+-keepclassmembers class * { *** enterSetup(...); }
+
+# onClick res/layout/activity_taskmanager.xml #generated:79
+-keepclassmembers class * { *** fanSelect(...); }
+
+# onClick res/layout/activity_telsmssafe.xml #generated:85
+-keepclassmembers class * { *** jumpPage(...); }
+
+# onClick res/layout/activity_atool.xml #generated:58
+-keepclassmembers class * { *** lockActivity(...); }
+
+# onClick res/layout/activity_setup1.xml #generated:85
+# onClick res/layout/activity_setup2.xml #generated:73
+# onClick res/layout/activity_setup3.xml #generated:73
+# onClick res/layout/activity_setup4.xml #generated:59
+-keepclassmembers class * { *** next(...); }
+
+# onClick res/layout/activity_telsmssafe.xml #generated:64
+-keepclassmembers class * { *** nextPage(...); }
+
+# onClick res/layout/activity_atool.xml #generated:10
+-keepclassmembers class * { *** phoneQuery(...); }
+
+# onClick res/layout/activity_setup2.xml #generated:81
+# onClick res/layout/activity_setup3.xml #generated:82
+# onClick res/layout/activity_setup4.xml #generated:68
+-keepclassmembers class * { *** prev(...); }
+
+# onClick res/layout/activity_telsmssafe.xml #generated:71
+-keepclassmembers class * { *** prevPage(...); }
+
+# onClick res/layout/activity_taskmanager.xml #generated:72
+-keepclassmembers class * { *** selectAll(...); }
+
+# onClick res/layout/activity_setup3.xml #generated:27
+-keepclassmembers class * { *** selectSafeNumber(...); }
+
+# onClick res/layout/activity_taskmanager.xml #generated:86
+-keepclassmembers class * { *** setting(...); }
+
+# onClick res/layout/activity_atool.xml #generated:23
+-keepclassmembers class * { *** smsBaike(...); }
+
+# onClick res/layout/activity_atool.xml #generated:45
+-keepclassmembers class * { *** smsResumn(...); }
+
